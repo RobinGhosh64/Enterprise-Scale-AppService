@@ -6,6 +6,6 @@
 - How is the fail-over orchestrated (and if so by whom)? 
     - Are consumers and providers aware or should this be transparent (from connectivity perspective, performance may be impacted)
 - Is the failover manual or automated?
-- Are multiple APIM gateway instances (already) deployed in different regions
+- Are multiple App gateway instances (already) deployed in different regions
 - How to fail back when the disaster is relieved
 
